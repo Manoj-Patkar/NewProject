@@ -1,2 +1,3 @@
 my branch is master
 this is my branch
+this is my third commit
